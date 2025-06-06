@@ -8,7 +8,7 @@ class chemistry extends math{
     void display(){
         System.out.println("nothing");
     }
-
+ 
 }
 // multi level inheritance
 //class physics extends chemistry{
